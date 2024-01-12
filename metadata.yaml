@@ -1,0 +1,53 @@
+_repo: Prejudices-fifth-series_72510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    - Mencken, Henry L.
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2023-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72510'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015004722354
+pgterms:marc905: 20220529020443mencken
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bAlfred A. Knopf, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'American literature -- History and criticism'
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Four moral causes: Birth control. Comstockery. Capital punishment.
+  War -- Four makers of tales: Conrad. Hergesheimer. Lardner. Masters -- In memoriam:
+  W.J.B. [William Jennings Bryan] -- The hills of Zion -- Beethoven -- Rondo on an
+  ancient theme -- Protestantism in the Republic -- From the files of a book reviewer:
+  Counter-offensive. Heretics. The grove of academe. The schoolma''m''s goal. The
+  heroic age. The woes of a 100% American. Yazoo''s favorite. The father of service.
+  A modern masterpiece. Sweet stuff -- The fringes of lovely letters: Authorship as
+  a trade. Authors as persons. Birth pangs. Want ad. Literature and the schoolma''am.
+  The critic and his job. Painting and its critics. Greenwich Village -- Essay in
+  pedagogy -- On living in Baltimore -- The last New Englander -- The nation -- Officers
+  and gentlemen -- Golden age -- Edgar Saltus -- Miscellaneous notes: Martyrs. The
+  ancients. Jack Ketch as eugenist. Heroes. An historic blunder. On cynicism. Music
+  and sin. The champion. Honor in America. Notes in the margin of a treatise on psychology.
+  Definition -- Catechism.'
+title: Prejudices, fifth series
+url: http://www.gutenberg.org/ebooks/72510
