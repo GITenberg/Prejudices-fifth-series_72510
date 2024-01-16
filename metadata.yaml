@@ -1,5 +1,8 @@
 _repo: Prejudices-fifth-series_72510
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72510-h/images/cover.jpg
 creator:
   author:
     agent_name: Mencken, H. L. (Henry Louis)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72510#Prejudices-fifth-series
 gutenberg_issued: '2023-12-26'
 gutenberg_type: Text
 identifiers:
